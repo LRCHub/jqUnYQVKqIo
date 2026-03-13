@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Routine",
+  "base_artist": "AGE",
+  "createdAt": "2026-03-13T16:17:11.800028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The New Routine",
+      "artist": "Bob Geldof",
+      "has_synced": false,
+      "path": "select/01_The_New_Routine_Bob_Geldof.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daily Routine",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/02_Daily_Routine_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daily Routine - Live May 30, 2009 Las Vegas, NV",
+      "artist": "Animal Collective",
+      "has_synced": false,
+      "path": "select/03_Daily_Routine_-_Live_May_30,_2009_Las_Vegas,_NV_Animal_Collective.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Larry Routine",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/04_The_Larry_Routine_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Lisa Lisa / Full Force Routine",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/05_The_Lisa_Lisa___Full_Force_Routine_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Routine",
+      "artist": "Pi’erre Bourne",
+      "has_synced": true,
+      "path": "select/06_Routine_Pi’erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good-bye Routine",
+      "artist": "Donots",
+      "has_synced": true,
+      "path": "select/07_Good-bye_Routine_Donots.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Routine",
+      "artist": "Steven Wilson",
+      "has_synced": true,
+      "path": "select/08_Routine_Steven_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Groupie Routine (Live)",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/09_The_Groupie_Routine_(Live)_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Lisa Lisa\u0000Full Force Routine",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/10_The_Lisa_Lisa\u0000Full_Force_Routine_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dead Routine",
+      "artist": "Like Moths to Flames",
+      "has_synced": true,
+      "path": "select/11_Dead_Routine_Like_Moths_to_Flames.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Routine",
+      "artist": "AGE",
+      "has_synced": false,
+      "path": "select/pl_01_Routine_AGE.txt"
+    }
+  ]
+}
