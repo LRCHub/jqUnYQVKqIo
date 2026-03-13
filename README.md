@@ -1,0 +1,67 @@
+# AGE – Routine
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I think about you every single day
+That’s my routine
+Oh oh yeah
+どんなに疲れた日でも
+予想外のイレギュラーがあっても
+一種の願掛けみたいな
+誰も知らない秘密のルーティン
+キミの右を歩いて
+小さな右手を包み込んで
+少し緩い指輪を転がしながら
+見上げて微笑むキミを見てる
+There’s so much I do for you
+Oh baby
+気づいてなくていい
+Because, I love doing that routine for you
+Oh, 小さな幸せなのさ
+Wanna do, wanna do it for you
+目覚めたらキミにgood morning
+仕事帰り忘れずcalling
+(Pick up the phone)
+忘れないように
+(If you’re alone)
+キミの元に
+帰り道寄ってくよ
+あの店のパン買ってくよ
+退屈なweekdaysに
+キミがモチベーションをくれるyou know
+Diaryをつけるような
+マメなタイプじゃなさそうじゃん
+キミはそう言ったけど
+案外慣れるよだってyou’re special
+遡れないほど
+溜まっていくカメラロール
+アルバムを作って
+時々 I look back on it
+There’s so much I do for you
+Oh baby
+気づいてなくていい
+Because, I love doing that routine for you
+Oh, 小さな幸せなのさ
+Wanna do, wanna do it for you
+I think about you every single day
+Oh, I can’t stop it, baby
+欠かせないthat’s my routine, baby
+Oh, yeah
+I think about you every single day
+日常に溢れるサイン
+拾い集めるよ
+You’re so fine
+There’s so much I do for you
+Oh baby
+気づいてなくていい
+Because, I love doing that routine for you
+Oh, 小さな幸せなのさ
+Wanna do, wanna do it for you
+There’s so much I do for you
+Oh baby
+気づいてなくていい
+Because, I love doing that routine for you
+Oh, 小さな幸せなのさ
+Wanna do, wanna do it for you
+```
